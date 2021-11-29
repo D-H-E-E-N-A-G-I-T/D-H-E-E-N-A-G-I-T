@@ -1,6 +1,6 @@
 - 👋 Hi, I’m #DHEENA
 - 👀 I’m interested in Wensite Building
-- 🌱 I’m currently learning HTML/CSS/Js/Angular/React/Vue/Express/Node/Bootstrap/Sql
+- 🌱 I’m currently learning M.E.R.N
 - 💞️ I’m looking to collaborate on Website Community
 - 📫 How to reach me ~ todheena@yahoo.com
 
